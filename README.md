@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VikasNagare12
+- 👋 Hi, I’m @VikasNagare12 (Vikas Nagare)
 - 👀 I’m interested in Software Engineering and Artificial Intilegiance
 - 🌱 I’m currently learning Machine leaning and deep learning and new software engineering concepts
 - 💞️ I’m looking to collaborate on
