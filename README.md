@@ -5,7 +5,7 @@
 
 <p align="center">
      
-<!-- <a href="https://kaggle.com/mandarkulkarnipune">-->
+<a href="https://www.kaggle.com/vikasnagare">
         <img align="center" alt="Mandar's kaggle profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/vikas-nagare/">
