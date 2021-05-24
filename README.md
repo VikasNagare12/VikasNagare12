@@ -19,14 +19,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=VikasNagare12&style=flat-square)
 
 <p>
-  <em>
     I'm a <b>Data science enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in this domain.
-  </em>
  </p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<em>
   
 **Talking about Personal Stuffs:**
 
@@ -38,7 +35,7 @@
 - 📌 Scroll down to see my Pinned Repositories.
 - 📫 Please email via vikasnagare19@gmail.com to reach me;
 <br/> 
-</em>
+
 
 ### Worked with 
 
