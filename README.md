@@ -30,7 +30,7 @@
   
 **Talking about Personal Stuffs:**
 
--👨🏽‍💻 I’m currently working as ML/Software Engineer at Web Minds IT solutuions.
+- 👨🏽‍💻 I’m currently working as ML/Software Engineer at Web Minds IT solutuions.
 - 💼 I have Completed My Masters Degree in Master of computer Applications from Vishwakarma Institute of technology.
 - 💻 I'm looking for an full time opportunity in Data Science/Data Analyst/Machine Learning domain.
 - 🖋️ I'm actively participating in Data science competitions on kaggle,Analytics Vidhya.
@@ -47,7 +47,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="java"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"</code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
@@ -61,7 +61,7 @@
  
 ### Top Languages
 
-<p align="left">
+<p align="center">
 <a href = "https://github.com/VikasNagare12">
   <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=VikasNagare12&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
@@ -82,13 +82,13 @@
   </a>
   </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mandar196/Handwritten_Digits_Classifier_CNN">
   <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Handwritten_Digits_Classifier_CNN&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
   </p>
   
- <p align="center">
+ <p align="left">
   <a href = "https://github.com/mandar196/Face_Recognition_Attendance_System">
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Face_Recognition_Attendance_System&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
