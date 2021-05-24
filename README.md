@@ -4,7 +4,8 @@
 
 
 <p align="center">
-      <a href="https://kaggle.com/mandarkulkarnipune">
+     
+<!-- <a href="https://kaggle.com/mandarkulkarnipune">-->
         <img align="center" alt="Mandar's kaggle profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/vikas-nagare/">
@@ -15,7 +16,7 @@
       </a>
  	</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mandar196&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=VikasNagare12&style=flat-square)
 
 <p>
   <em>
@@ -29,7 +30,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as ML/Software Engineer at Web Minds IT solutuions.
+ 👨🏽‍💻 I’m currently working as ML/Software Engineer at Web Minds IT solutuions.
 - 💼 I have Completed My Masters Degree in Master of computer Applications from Vishwakarma Institute of technology.
 - 💻 I'm looking for an full time opportunity in Data Science/Data Analyst/Machine Learning domain.
 - 🖋️ I'm actively participating in Data science competitions on kaggle,Analytics Vidhya.
@@ -53,8 +54,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <a href = "https://github.com/mandar196">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=mandar196&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  <a href = "https://github.com/VikasNagare12">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=VikasNagare12&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
  
@@ -62,7 +63,7 @@
 
 <p align="center">
 <a href = "https://github.com/VikasNagare12">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=mandar196&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=VikasNagare12&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
 
