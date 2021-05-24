@@ -74,12 +74,13 @@
   <a href = "https://github.com/mandar196/Hate_Speech_Detection-NLP">
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Hate_Speech_Detection-NLP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
+      <a href="https://github.com/mandar196/MedTest">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=MedTest&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mandar196/MedTest">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=MedTest&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
+ 
   </p>
 
 <p align="left">
