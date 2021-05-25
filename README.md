@@ -1,10 +1,6 @@
 ## Hi there, I'm [Vikas Nagare]<!--(https://kulkarnimandar96.wixsite.com/mandar)-->! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
-
 <h3>Check out my portfolio: <!--<a href="https://kulkarnimandar96.wixsite.com/mandar"</a>--> click here</h3>
-
-
 <p align="center">
-     
 <a href="https://www.kaggle.com/vikasnagare">
         <img align="center" alt="Mandar's kaggle profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
