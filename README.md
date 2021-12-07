@@ -23,7 +23,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working as ML/Software Engineer at Web Minds IT solutuions.
+- 👨🏽‍💻  I’m currently working as ML/Software Engineer.
 - 💼  I have Completed My Masters Degree in Master of computer Applications from Vishwakarma Institute of technology.
 - 💻  I'm looking for an full time opportunity in Data Science/Data Analyst/Machine Learning domain.
 - 🖋️  I'm actively participating in Data science competitions on kaggle,Analytics Vidhya.
